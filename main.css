@@ -1,0 +1,43 @@
+h1{
+    font-family: 'Satisfy', cursive;
+}
+
+.less_product{
+    background-color: lightskyblue;
+    width: 30px;
+    height: 30px;
+}
+
+.add_product{
+    background-color:lightskyblue;
+    width: 30px;
+    height: 30px;
+}
+
+#total_carrito{
+    margin: 10px;
+    font-weight: 500;
+}
+
+#boton_cancel{
+    font-size: x-small;
+    position: absolute;
+    right: 80px;  
+    width: 45px;
+    height: 25px;
+    border-color: 3px solid black;
+    background-color: rgb(223, 85, 50);
+}
+
+
+#boton_confirm{
+ font-size: x-small;
+  position: absolute;
+  right: 10px;
+  width: 60px;
+  height: 25px;
+  border-color: 3px solid black;
+  background-color:beige
+  }
+  
+
